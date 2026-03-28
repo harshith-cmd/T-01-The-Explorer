@@ -1,0 +1,31 @@
+# Arduino build files
+*.elf
+*.bin
+*.hex
+*.map
+*.eep
+*.ino.with_bootloader.bin
+
+# Arduino IDE
+*.arduino.*
+
+# PlatformIO
+.pio/
+.piolibdeps/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Local tools and generated assets
+tools/
+images/*-palette.png
