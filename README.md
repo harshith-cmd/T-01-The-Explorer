@@ -152,6 +152,14 @@ Here are some photos of the T-01 prototype:
 
 ![T-01 Running Demo](images/t01-demo.gif)
 
+## 3D Models
+
+The CAD / printable model files for **T-01: The Explorer** are available here:
+
+- [MakerWorld](https://makerworld.com/en/models/2584740-t-01-the-explorer#profileId-2851219)
+- [Printables](https://www.printables.com/model/1654580-t-01-the-explorer)
+- [Cults3D](https://cults3d.com/en/3d-model/gadget/t-01-the-explorer)
+
 ## Credits
 
 - OLED eye style inspired by the Intellar look
